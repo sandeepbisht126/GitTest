@@ -1,1 +1,2 @@
 Hello 1.txt - added change in my branch 2 - version 3
+some changes - needed to be reverted from master
